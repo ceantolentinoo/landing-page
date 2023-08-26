@@ -1,15 +1,11 @@
-#header{
+.displayFlex{
     display: flex;
+}
+
+#header{
     justify-content: space-between;
 }
 
-.navlinks{
-    display: flex;
-}
-
-#main-header{
-    display: flex;
-}
 
 #main-header div{
     flex:1;
